@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\61a76e85c232aa1102e88b555442c2016f3445e7\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_80b9f451a938720109b7469c1e2a355e3c987d26\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6b8b8b1ad73ae9929ba109a62eb8ea62516849ed">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_47b0108d957cd00a5728df1b1880183857d8e9c8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\42f64913129d0b2d14c340d2df13075c14bb20a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6ef5f0243acb32cde9378c808bb3cc9eaa1a66ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\ae55860e58ddd0ef38649bae243387413fd63447\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_c6ced331cfbe2c54bcbaf547c54943ccf8663cb3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\3d448b4a9631c1e4637c0553b755b0e4ce5ff998\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_4e97ed05da05ad3a298a27e516223c32c33141db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\3dbd93f198b3ecbde59a6c814b771731897ca8eb\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="34c23b5894b4f24d566bfc33e0e25462c6436b78">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f36969d1255b9f35e043db877c62d241b9c5ac91\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\c84fa430b7e62bfbfc8603e57a0231ed850faecd\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_427d4f843c4e777485674ce2964a6b1fafdf49c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\bd743403eb38d71489b1292552015fba90e3ea0a\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_61a2716e001614c8239c80e52776f5afd0d8b0a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\625823a738d8528e15eacc9c0a83e5c52e3cd7d3\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_54603d3188091476f6afeee43e4ce10f9b9e18ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\592bdfb70428be4d5435676cdcff74f357a0af4e\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e7f890dd2539b7f2582f450f0721e2dea6ae510c">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_8d82206bc4fa763440d500b39e49253cd30f9aca\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\3c6064b195574a55c3ba7efe4d9935334994cfde\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bef0fe65c1a1fef4f43c69abaafc931a16feb750\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\0f981917ccab21afc1b07c5c7fe76788d5f7fc10\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_5ba255c47a533e3148c759340fd276008cdbdd02\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_4b3ec4cf42d43baaeba221214e3b7acda3c18d22\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\548cbd7ddef83dd67ade4faf3dd14879bf32a4a5\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_7835a6bebade5d376f31584b108c3776b4c05455\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\d94f6fd84c74c1110da4f33008e13799c81397a4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2c73e2a93e00abd240e495c1e62217e53904a3f3">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_6bf77dec6792201e8577c099dbaed62a8702ff8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\9438756b2f98a70a8d684c0d6ca40462df9bffc1\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="416fb9ee2fd6e7af0bba04b01d90cb475b1e2074">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e731ba9518858b3cb6b24e818198a95c9c86a74b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.1.0_65baf85e613bfc8c8db318eeccd60c9fc0cac987\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\737ccb8baa3ca6b5d4b28d6106d807055dd282dc\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_16655e187f6190c3c1ec229bde5bac6c3f7d1086\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\62f0d0531f7c4ca0b91387b80a98c8da4b26ee0f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e9a4ea54eb05f27f39c66766312b945678318bbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_0565f61f13f288f49fa4309b6cd28c26a4a60477\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\eee447e3ef77b0e5f332ec33b60868be466a0fc4\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f2cb88e7e28736d44e7e643deb80c9af1c3662c8">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_1d3faa8d950d2b217bb1fca8550a95b9f1f2e16a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\common-1.0.0_f6b2afae0a132590efe3ffe7d7845b4e537221d7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\53c8ab6824e7a56566d588f838b8fff230170a44\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_314c7e91295ddcbce38628dbea4a90ddf909dda8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\James\.android\build-cache\90155c69c92116490a7333971472c8608ae10f78\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="C:\Users\James\AndroidStudioProjects\IdleToy\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f3bc37485588a1380989e97f9e427042d24fb6b1\classes.dex" />
+    </item>
+
+</items>
