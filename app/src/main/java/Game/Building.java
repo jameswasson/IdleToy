@@ -36,8 +36,8 @@ public class Building {
     public String getNamePlural() {
         return namePlural;
     }
-    public long getCurrentPrice(){
-        return (long)(Math.pow(INFLATIONRATE,numberOwned)*(double)basePrice);
+    public double getCurrentPrice(){
+        return Math.pow(INFLATIONRATE,numberOwned)*(double)basePrice;
     }
     public void buy(){
         numberOwned++;

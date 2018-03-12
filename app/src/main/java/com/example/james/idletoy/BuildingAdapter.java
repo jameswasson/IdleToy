@@ -11,10 +11,6 @@ import java.util.List;
 
 import Game.Game;
 
-/**
- * Created by James on 12/21/2017.
- */
-
 public class BuildingAdapter extends RecyclerView.Adapter<BuildingAdapter.ViewHolder>{
 
     private static Context myContext;

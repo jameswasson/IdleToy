@@ -91,13 +91,13 @@ public class Game {
         else
             return false;
     }
-    public long getPriceOfQuantity(int indexOfBuilding, int quantity){
+    public double getPriceOfQuantity(int indexOfBuilding, int quantity){
         return BuildingManager.getBuildingManager().getPriceOfQuantity(indexOfBuilding,quantity);
     }
     public int getMaxNumberAbleToPurchaseOf(int indexOfBuilding){
         return BuildingManager.getBuildingManager().maxAbleToPurchaseOf(indexOfBuilding,Boxe.getBox().getToys());
     }
-    public long priceOf(int indexOfBuilding){
+    public double priceOf(int indexOfBuilding){
         return getPriceOfQuantity(indexOfBuilding,1);
     }
     public String nameOf(int indexOfBuilding){
@@ -166,7 +166,7 @@ public class Game {
         buyBuildingQuantity(indexOfBuilding,1);
     }
     private void buyBuildingQuantity(int indexOfBuilding,int quantity){
-        long totalPrice = getPriceOfQuantity(indexOfBuilding,quantity);
+        double totalPrice = getPriceOfQuantity(indexOfBuilding,quantity);
         Boxe.getBox().updateAfterPurchase(totalPrice,BuildingManager.getBuildingManager().getBaseRateOf(indexOfBuilding) * quantity);
         BuildingManager.getBuildingManager().buyQuantity(indexOfBuilding,quantity);
     }
@@ -178,7 +178,7 @@ public class Game {
     }
     public static String convertDoubleToNumWithCommas(double inputNumber){
         String toReturn = "";
-        String inputAsString = "" + inputNumber;
+        String inputAsString = "" + (int)inputNumber;
         while (inputAsString.length() > 3){
             String firstThreeChars = inputAsString.substring(inputAsString.length() - 3);
             inputAsString = inputAsString.substring(0,inputAsString.length() - 3);
@@ -192,7 +192,7 @@ public class Game {
         String number = "";
         if (inputNumber < MILLION) {
             toReturn = convertDoubleToNumWithCommas(inputNumber);
-            return inputNumber + "";
+            return toReturn;
         }
         else {
             double numberOfDigits =  Math.log(inputNumber)/Math.log(10) + 0.0000000002;

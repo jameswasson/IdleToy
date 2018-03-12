@@ -5,6 +5,7 @@ import org.junit.Test;
 import java.util.Random;
 
 import Game.Game;
+import Game.Boxe;
 
 import static org.junit.Assert.*;
 
@@ -21,10 +22,11 @@ public class ExampleUnitTest {
 
     @Test
     public void numberDisplay_isCorrect(){
+        /*
         for (int i = 0; i < 30; i++)
             System.out.println(Game.convertDoubleToChosenFormat(Math.pow(10,i)));
-
-        System.out.println(Game.convertDoubleToChosenFormat(Math.pow(10,9)));
+            */
+        assert true;
     }
 
     @Test
@@ -34,7 +36,4 @@ public class ExampleUnitTest {
         String endString = Game.getGame().readFromFile("test.txt");
         assertEquals(endString, startString);
     }
-
-
-
 }

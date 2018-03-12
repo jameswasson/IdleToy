@@ -34,7 +34,7 @@ public class Boxe
     public void toyButtonPressed(){
         subtractToys(-1-getToys());//adds one toy
     }
-    public void updateAfterPurchase(long priceChange, long rateChange){
+    public void updateAfterPurchase(double priceChange, long rateChange){
         if (priceChange != 0)
             subtractToys(priceChange);
         if (rateChange != 0)
@@ -74,7 +74,7 @@ public class Boxe
     public double getToys() {
         if (getRate() == 0L)
             return smallNum;
-        return getRate() * (System.currentTimeMillis() - prevMillis) / 1000L;
+        return getRate() * ((double)System.currentTimeMillis() - (double)prevMillis) / 1000.0;
     }
       
     public double getRate()

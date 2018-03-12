@@ -35,10 +35,10 @@ public class BuildingManager {
     private List<Building> ourBuildings;
     private List<String> ourBuildingNames;//singular
 
-    public long getPriceOfQuantity(int indexOfBuilding,int quantity){
+    public double getPriceOfQuantity(int indexOfBuilding,int quantity){
         double r = Building.INFLATIONRATE;
         double start = getPriceOf(indexOfBuilding);
-        return (long)((1-Math.pow(r,quantity))*(start)/(1-r));
+        return (1.0-Math.pow(r,quantity))*(start)/(1.0-r);
     }
     public int maxAbleToPurchaseOf(int indexOfBuilding,double currentNumberOfToys){
         double r = Building.INFLATIONRATE;
@@ -63,7 +63,7 @@ public class BuildingManager {
     public String getNamePluralOf(int indexOfBuilding){
         return ourBuildings.get(indexOfBuilding).getNamePlural();
     }
-    public long getPriceOf(int indexOfBuilding){
+    public double getPriceOf(int indexOfBuilding){
         return ourBuildings.get(indexOfBuilding).getCurrentPrice();
     }
     public void buy(int indexOfBuilding){

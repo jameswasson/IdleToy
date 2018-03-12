@@ -108,13 +108,19 @@ public class MainActivity extends Activity {
 
             @Override
             public void run() {
+
+                //this is it's own thread
+
                 try {
-                    while (!isInterrupted()) {
-                        Thread.sleep(15);
+                    while (!isInterrupted()) {//this is a loop
+                        Thread.sleep(15);//15 ms
                         runOnUiThread(new Runnable() {
                             @Override
                             public void run() {
+                                // this is the UI thread
+
                                 refreshToysNumber();
+
                             }
                         });
                     }
@@ -134,7 +140,7 @@ public class MainActivity extends Activity {
         mainText.setText(text);
     }
     public void refreshToysNumber(){
-        changeMainText(Game.getGame().convertDoubleToChosenFormat(Game.getGame().numberOfToys()));
+        changeMainText(Game.convertDoubleToChosenFormat(Game.getGame().numberOfToys()));
     }
     public void refreshToyRate(){
         rateText.setText(Game.getGame().convertDoubleToChosenFormat(Game.getGame().totalRate()));
